@@ -245,4 +245,4 @@ client.on("guildMemberAdd", async (member) => {
     }
 })
 
-client.login("Token")
+client.login("ODYxMjg0ODQ2MzU3ODM5ODgy.YOHkBQ.U0ss1dsjFku-toMe_VPDShYk-vg")
